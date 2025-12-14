@@ -1,11 +1,11 @@
 {
-  "name": "wasonar",
+  "name": "wasonar-cli",
   "version": "1.0.1",
   "description": "WhatsApp Intelligence & Resource Exhaustion Tool. Features real-time device tracking, silent RTT probing, and protocol stress testing.",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "wasonar": "./index.js"
+    "wasonar-cli": "./index.js"
   },
   "scripts": {
     "start": "node index.js",
@@ -22,7 +22,7 @@
     "tracking",
     "stress-testing",
     "baileys",
-    "wasonar",
+    "wasonar-cli",
     "cybersecurity"
   ],
   "author": "AjayAnto",
