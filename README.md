@@ -21,10 +21,10 @@
 
 ## Features
 
-- 📡 **Real-time Device Tracking**: Detect exact online/offline status of *all* linked devices (Phone, Web, Desktop).
-- 📱 **Device Discovery**: List all devices linked to a target number (Main phone + Companion devices).
-- 👤 **Profile Extraction**: Fetch profile pictures, status/about info, and JIDs.
-- 🚀 **Resource Exhaustion**: Overwhelm devices using oversized reaction payloads (Aggressive/Slow modes).
+- **Real-time Device Tracking**: Detect exact online/offline status of *all* linked devices (Phone, Web, Desktop).
+- **Device Discovery**: List all devices linked to a target number (Main phone + Companion devices).
+- **Profile Extraction**: Fetch profile pictures, status/about info, and JIDs.
+- **Resource Exhaustion**: Overwhelm devices using oversized reaction payloads (Aggressive/Slow modes).
 ## Installation
 
 ### Via NPM (Recommended)
